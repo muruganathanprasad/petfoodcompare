@@ -1,0 +1,4 @@
+requests>=2.31
+rapidfuzz>=3.6        # optional: pure-python fallback exists in match.py
+pandas>=2.0           # only needed for the Streamlit UI
+streamlit>=1.33       # only needed for the Streamlit UI
